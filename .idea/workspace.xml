@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6f71363d-48fc-4aa5-89ca-06a177c01c98" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/lesson-4/src/components/PrintUserReducer.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson-4/src/components/UserReducer.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson2/src/pages/postPage.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/homework4/src/main.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/homework4/src/main.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson-4/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/lesson-4/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson-4/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/lesson-4/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson-4/src/App.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/lesson-4/src/App.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson-4/src/main.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/lesson-4/src/main.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson-4/src/pages/CounterPage.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/lesson-4/src/pages/CounterPage.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson2/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/lesson2/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson2/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/lesson2/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson2/src/App.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/lesson2/src/App.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson2/src/components/Layout.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson2/src/components/NavBar.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson2/src/pages/AboutPage.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson2/src/pages/CreatePost.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson2/src/pages/MainPage.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson2/src/pages/PostsPage.jsx" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="package.json" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/homework4" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2atcFqY7hp5NDiOVlQ46iBFtdRj" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/Geeks/month 5",
+    "node.js.detected.package.eslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings",
+    "ts.external.directory.path": "C:\\Program Files\\JetBrains\\WebStorm 2022.2.3\\plugins\\JavaScriptLanguage\\jsLanguageServicesImpl\\external",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Geeks\month 5\homework2\src" />
+      <recent name="C:\Geeks\month 5\homework1" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Geeks\month 5\homework5\src\data" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6f71363d-48fc-4aa5-89ca-06a177c01c98" name="Changes" comment="" />
+      <created>1705141214878</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1705141214878</updated>
+      <workItem from="1705141216138" duration="5021000" />
+      <workItem from="1705471659179" duration="730000" />
+      <workItem from="1705739006497" duration="756000" />
+      <workItem from="1706081701148" duration="81000" />
+      <workItem from="1706091116847" duration="2756000" />
+      <workItem from="1706254767978" duration="75000" />
+      <workItem from="1706347248950" duration="983000" />
+      <workItem from="1706433718503" duration="2495000" />
+      <workItem from="1706602132386" duration="10487000" />
+      <workItem from="1706772341780" duration="12561000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
