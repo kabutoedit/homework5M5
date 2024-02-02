@@ -3,8 +3,7 @@ import './App.css'
 import HomePage from "./components/HomePage.jsx";
 import Layout from "./components/Layout.jsx";
 import CreatePost from "./components/CreatePost.jsx";
-import SinglePost from "./components/SinglePost.jsx";
-import Api from "./components/Api.jsx";
+import PostsPage from "./components/postsPage.jsx";
 import NavBar from "./components/NavBar.jsx";
 
 const App = () => {
@@ -14,9 +13,8 @@ const App = () => {
                 <Routes>
                     <Route path="/" element={<Layout/>}>
                         <Route index element={<HomePage/>}/>
-                        <Route path="/posts" element={<Api/>}/>
+                        <Route path="/posts" element={<PostsPage/>}/>
                         <Route path="/create_post" element={<CreatePost/>}/>
-                        <Route path="posts/:postId" element={<SinglePost/>}/>
                         <Route path="*" element={
                             <div>
                                 <h2>404</h2>

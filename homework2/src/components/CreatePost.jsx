@@ -1,6 +1,7 @@
 import React, {useState} from 'react';
 import axios from "axios";
 import "/src/App.css"
+import {Link, useNavigate} from "react-router-dom";
 
 const CreatePost = () => {
 
@@ -8,6 +9,12 @@ const CreatePost = () => {
     const [title,setTitle] = useState('')
     const [body,setBody] = useState('')
     const [id,setId] = useState('')
+
+    const navigation = useNavigate()
+
+    const handleClick = () => {
+        navigation("/posts")
+    }
 
     const handleTitleChange = (e) => {
         setTitle(e.target.value)
@@ -27,17 +34,13 @@ const CreatePost = () => {
         id: 1,
     }
 
-
     const handleSubmit = async(e) => {
         e.preventDefault
 
-        try {
             const response = await axios.post('https://dummyjson.com/posts/add', postData)
             setPosts('post has created', response.data.posts)
             alert('Post processing')
-        } catch (error) {
-            console.error("post 404", error)
-        }
+
     }
 
     return (
@@ -53,7 +56,7 @@ const CreatePost = () => {
                 <label>Body:
                     <input type="text" value={body} onChange={handleBodyChange}/>
                 </label>
-                <button type="submit">+</button>
+                <button type="submit" onClick={handleClick}>+</button>
             </form>
         </div>
     );

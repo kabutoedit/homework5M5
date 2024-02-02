@@ -7,7 +7,7 @@ const Layout = () => {
     return (
         <div>
             <Outlet />
-            <span>20.12.90</span>
+            <span>06.10.1946</span>
         </div>
     );
 };
