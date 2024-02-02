@@ -5,7 +5,8 @@
       <change afterPath="$PROJECT_DIR$/lesson-4/src/components/PrintUserReducer.jsx" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/lesson-4/src/components/UserReducer.jsx" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/lesson2/src/pages/postPage.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/homework1" beforeDir="false" afterPath="$PROJECT_DIR$/homework1" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/homework1/src/pages/PostsPage.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/homework1/src/pages/PostsPage.jsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/homework4" beforeDir="false" afterPath="$PROJECT_DIR$/homework4" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/homework4/src/main.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/homework4/src/main.jsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/lesson-4" beforeDir="false" afterPath="$PROJECT_DIR$/lesson-4" afterDir="false" />
@@ -50,20 +51,20 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/Geeks/month 5",
-    "node.js.detected.package.eslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings",
-    "ts.external.directory.path": "C:\\Program Files\\JetBrains\\WebStorm 2022.2.3\\plugins\\JavaScriptLanguage\\jsLanguageServicesImpl\\external",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Geeks/month 5&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;project.propVCSSupport.DirectoryMappings&quot;,
+    &quot;ts.external.directory.path&quot;: &quot;C:\\Program Files\\JetBrains\\WebStorm 2022.2.3\\plugins\\JavaScriptLanguage\\jsLanguageServicesImpl\\external&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Geeks\month 5\homework2\src" />
@@ -91,6 +92,7 @@
       <workItem from="1706433718503" duration="2495000" />
       <workItem from="1706602132386" duration="10487000" />
       <workItem from="1706772341780" duration="13389000" />
+      <workItem from="1706863566805" duration="358000" />
     </task>
     <servers />
   </component>
