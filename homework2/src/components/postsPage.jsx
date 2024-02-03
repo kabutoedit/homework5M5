@@ -28,18 +28,4 @@ const PostsPage = () => {
     )
 
 };
-
-// return (
-//     <div>
-//         <h1>Posts</h1>
-//         <ul>
-//             {posts.map((item) => (
-//                 <li key={item.id}>
-//                     <Link to={`/posts${item.id}`}>{item.title}</Link>
-//                 </li>
-//             ))}
-//         </ul>
-//     </div>
-// );
-
 export default PostsPage;
