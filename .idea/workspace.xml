@@ -2,12 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6f71363d-48fc-4aa5-89ca-06a177c01c98" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/homework3/src/components/Layout.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework3/src/components/NavBar.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework3/src/pages/HomePage.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework3/src/store/action.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework3/src/store/reducer.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework3/src/store/store.js" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/lesson-4/src/components/PrintUserReducer.jsx" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/lesson-4/src/components/UserReducer.jsx" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/lesson2/src/pages/postPage.jsx" afterDir="false" />
@@ -17,8 +11,8 @@
       <change beforePath="$PROJECT_DIR$/homework2/src/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/homework2/src/App.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/homework2/src/components/postsPage.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/homework2/src/components/postsPage.jsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/homework2/src/main.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/homework2/src/main.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/homework3/src/pages/postsPage.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/homework3/src/pages/postsPage.jsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/homework4" beforeDir="false" afterPath="$PROJECT_DIR$/homework4" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/homework4/src/main.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/homework4/src/main.jsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/lesson-4" beforeDir="false" afterPath="$PROJECT_DIR$/lesson-4" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/lesson-4/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/lesson-4/package-lock.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/lesson-4/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/lesson-4/package.json" afterDir="false" />
@@ -51,6 +45,7 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -105,7 +100,7 @@
       <workItem from="1706602132386" duration="10487000" />
       <workItem from="1706772341780" duration="13389000" />
       <workItem from="1706863566805" duration="623000" />
-      <workItem from="1706864225060" duration="15691000" />
+      <workItem from="1706864225060" duration="25008000" />
     </task>
     <servers />
   </component>
@@ -117,7 +112,34 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="master" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="Branch">
+          <value>
+            <list>
+              <RecentGroup>
+                <option name="FILTER_VALUES">
+                  <option value="master" />
+                </option>
+              </RecentGroup>
+            </list>
           </value>
         </entry>
       </map>
