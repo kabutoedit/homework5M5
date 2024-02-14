@@ -7,6 +7,7 @@ export const NavBar = () => {
 		<nav>
 			<ul>
 				<NavLink to={'/CreatePostPage'}>Create post</NavLink>
+				<NavLink to={'/PostPage'}>Posts</NavLink>
 			</ul>
 		</nav>
 	)
